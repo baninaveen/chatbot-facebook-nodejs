@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "engines": {
+    "": "6.x"
+  },
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,6 +20,7 @@
     "apiai": "^2.0.5",
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
+    "pg": "7.2.0",
     "request": "^2.72.0",
     "uuid": "^2.0.3"
   }
