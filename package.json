@@ -4,11 +4,12 @@
   "description": "",
   "main": "app.js",
   "engines": {
-    "": "6.x"
+    "node": "6.x"
   },
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gcloud app deploy  --project bitnami-2elbqc-swg"
   },
   "repository": {
     "type": "git",
