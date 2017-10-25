@@ -1,9 +1,9 @@
 module.exports = {
-    FB_PAGE_TOKEN: 'EAAEffoZC9Y6ABAAZAjXFTqjlpzgYSK2g6Bc4iSUD60hbYNi7NMFXtC4VrCox9GZBo9ouy8U0BSVJIXlFON4VUFHoyGlzOXr8xyduxZBCaLYSV1njBKSMzcVJrWqPTVn5QsX1aVxPJU5vooXxcmGlQ24OicZCmLaVLk3MGLZCmlTOKZBKX5iAjsw',
-    FB_VERIFY_TOKEN: 'izo_wow_bot',
+    FB_PAGE_TOKEN: 'EAADKSjcmBd0BAI9axYXll9pEuM745kBWOuJIVTDPosUbkKvg2JWq97npku13GOs1QYqdIEmhUFC30PXK4yhvXZBwFLRkjexrTAsh0klJjnpIxTVMwh7nJSrUFZANvXZCfZCdyNYGscF2UYN2bVrWtxlMzsna4Vs0D024Fy16sUO3CPNsmM0s',
+    FB_VERIFY_TOKEN: 'izotest',
     API_AI_CLIENT_ACCESS_TOKEN: '9a596fe919e6475ab42750a2e60228e0',
-    FB_APP_SECRET: '6c86723b22af94dae6030c41330ea152',
-    SERVER_URL: "https://bitnami-2elbqc-swg.appspot.com/",
+    FB_APP_SECRET: 'bea331a14ff1954da4c23f53b57f5ee9',
+    SERVER_URL: "https://izotestbf.herokuapp.com/",
     PG_CONFIG: {
 	user: 'postgres',
 	database: 'postgres',
